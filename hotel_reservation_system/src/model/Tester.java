@@ -1,9 +1,0 @@
-package model;
-
-public class Tester {
-
-    public static void main (String[] args){
-        Customer customer = new Customer("First", "Last", "f@example.de");
-            System.out.println(customer);
-    }
-}
